@@ -1,0 +1,10 @@
+torch
+torchaudio
+torchinfo
+librosa
+numpy
+matplotlib
+jolib
+scikit-learn
+timm
+tqdm
