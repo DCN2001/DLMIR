@@ -1,0 +1,31 @@
+SVM:
+     ADSR OFF:
+          standard:
+               top 1 acc: 51.34%
+               top 3 acc: 79.57%
+          normalize:
+               top 1 acc: 45.73%
+               top 3 acc: 75.68%
+     ADSR ON:
+          standard:
+               top 1 acc: 53.22%
+               top 3 acc: 80.66% 
+          normalize:
+               top 1 acc: 46.46%
+               top 3 acc: 77.69%
+
+RF:
+    ADSR OFF:
+          standard:
+               top 1 acc: 57.64%
+               top 3 acc: 79.74%
+          normalize:
+               top 1 acc: 57.37%
+               top 3 acc: 80.13%
+    ASDR ON:
+          standard:
+               top 1 acc: 60.86%
+               top 3 acc: 84.84%
+          normalize:
+               top 1 acc: 60.72%
+               top 3 acc: 84.55%
