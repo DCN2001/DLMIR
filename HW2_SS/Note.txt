@@ -1,0 +1,17 @@
+1.Add data augmentation reference from open-Unmix, DEMUCS
+    Open-Unmix method:
+        (1)Random selct random chunking a segment 64 times from a song   ----------------------------------ok!
+        (2)random gains between 0.25 & 1.25    ------------------------------------------------------------ok!
+        (3)Randomly swap the channels   -------------------------------------------------------------------ok!
+        (4)random track mixing     ------------------------------------------------------------------------ok!
+        (5)fixed validation: maybe sliding window but use preslide to {chunk}.wav instead  ----------------ok!
+
+2.Ablation on number of LSTM layer & mask or not   
+
+3.Measure sdr from mir_eval ------------------------------------------------------------------ok!
+
+4.Inference code -----------------------------------------------------------------------------ok!
+
+5.Ablation on vocoder or mixture phase 
+
+
