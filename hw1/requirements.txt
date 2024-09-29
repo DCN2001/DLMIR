@@ -1,0 +1,13 @@
+torch
+torchaudio
+torchinfo
+librosa
+numpy
+matplotlib
+jolib
+scikit-learn
+timm
+transformers
+nnAudio
+tqdm
+pretty_midi

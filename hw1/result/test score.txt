@@ -1,0 +1,4 @@
+MERT:
+    model_all:       Best threshold: 0.45 | Best F1 score: 0.8697321984637741
+    model_finetune:  Best threshold: 0.4 | Best F1 score: 0.8401370829553473
+ 
